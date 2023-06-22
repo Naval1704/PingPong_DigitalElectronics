@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue May  2 14:21:20 2023
+# Process ID: 31360
+# Current directory: E:/IIT JODHPUR CLASS/4th SEM/Degital Design/Files/PingPong/PingPong.runs/impl_1
+# Command line: vivado.exe -log main_module.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source main_module.tcl -notrace
+# Log file: E:/IIT JODHPUR CLASS/4th SEM/Degital Design/Files/PingPong/PingPong.runs/impl_1/main_module.vdi
+# Journal file: E:/IIT JODHPUR CLASS/4th SEM/Degital Design/Files/PingPong/PingPong.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source main_module.tcl -notrace
